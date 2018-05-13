@@ -10,31 +10,38 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Science",
+    "Deep Learning",
+    "Data Visualization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "M.Sc - Media Informatics"
+  institution = "Saarland University, Saarbrücken"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "HECG - High End Computer Graphics Certificate Programme"
+  institution = "Gnomon School Of Visual Effects, California"
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "B.E - Electronics and Communication Engineering"
+  institution = "PSG College Of Technology, Coimbatore"
   year = 2008
- 
+
 +++
 
-# Biography
+# About Me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently pursuing my M.Sc - Media Informatics (since _Oct 2016_) in _Saarland University_, Saarbrücken. Previously, I was a Solar PV Engineer and also a 3D Computer Graphics Designer.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am :cupid: by Data Analysis which helps in <br>
+ __*__ Gathering new insights to manage and optimize business and industrial processes, <br>
+ __*__ Bringing about novel developments in Artificial Intelligence and Machine Learning related applications.
+
+My research interests include Data Science and Deep Learning.<br>
+Presently, I am on the lookout for internships and Master's thesis opportunities in the same.
+
+> In God we trust, all others must bring `data` - W.Edwards Deming
