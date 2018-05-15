@@ -37,7 +37,7 @@ weight = 5
 
 I am currently pursuing my M.Sc - Media Informatics (since _Oct 2016_) in _Saarland University_, Saarbrücken. Previously, I was a Solar PV Engineer and also a 3D Computer Graphics Designer.
 
-I am :cupid: by Data Analysis which helps in <br>
+I am _fascinated_ :sparkling_heart: by Data Analysis which helps in <br>
  __*__ Gathering new insights to manage and optimize business and industrial processes, <br>
  __*__ Bringing about novel developments in Artificial Intelligence and Machine Learning related applications.
 

@@ -14,7 +14,7 @@ summary = "A Data Visualization dashboard created for [*Smart City Visualization
 image_preview = "smartcitythumbnail.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://public.tableau.com/profile/dilip.rajkumar#!/vizhome/shared/H3GZYRR3B"
+external_link = "http://smartstreetlighting.herokuapp.com"
 
 # Does the project detail page use math formatting?
 math = false
@@ -29,6 +29,6 @@ image = ""
 caption = ""
 +++
 <!--more-->
- Our Project was titled was titled **_Vehicle Traffic Analysis for Smart Street Lighting_**. To see a live demo of the visualization follow the link below:
- http://smartstreetlighting.herokuapp.com/ <br> You can read more about the project in this GitHub Repo.<br>
- https://github.com/diliprk/SmartCityVisualization/tree/master/DataVisualisation
+This was a graded university course done as part of the _Media, Arts and Design_ Project work for HBK Saar in co-operation with Saarland University. <br><br> To see a live demo of the visualization follow the link below:
+ http://smartstreetlighting.herokuapp.com/ <br><br> You can read more about the project in this GitHub Repo.<br>
+ https://github.com/diliprk/SmartCityVisualization

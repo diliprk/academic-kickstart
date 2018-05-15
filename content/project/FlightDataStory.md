@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ['Tableau']
+tags = ['Tableau','DataVisualization']
 
 # Project summary to display on homepage.
 summary = "This was the Final Project of the Udacity Data Analyst Nanodegree. Here I created a data visualization dashboard using `Tableau` for US Flight Data. [*Read More*](https://github.com/diliprk/DataAnalytics-Nanodegree/tree/master/Project%208%20-%20Create%20a%20Tableau%20Story) "
