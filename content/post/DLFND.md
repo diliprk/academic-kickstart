@@ -1,7 +1,7 @@
 +++
 title = "Deep Learning Nanodegree Foundation"
 date = 2017-08-03T15:51:07+05:30
-draft = true
+draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

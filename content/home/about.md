@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Data Science",
     "Deep Learning",
+    "Artificial Intelligence",
     "Data Visualization"
   ]
 
@@ -19,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "M.Sc - Media Informatics"
   institution = "Saarland University, Saarbrücken"
-  year = 2019
+  year = 2020
 
 [[education.courses]]
   course = "HECG - High End Computer Graphics Certificate Programme"
@@ -35,13 +36,13 @@ weight = 5
 
 # About Me
 
-I am currently pursuing my M.Sc - Media Informatics (since _Oct 2016_) in _Saarland University_, Saarbrücken. Previously, I was a Solar PV Engineer and also a 3D Computer Graphics Designer.
+I am a graduate of the M.Sc - Media Informatics program at _Saarland University_, Saarbrücken, specializing in Data Science and Machine Learning. I did my master thesis project and also a 6 months internship at _Airbus Operations GmbH_.
 
-I am _fascinated_ :sparkling_heart: by Data Analysis which helps in <br>
+I am fascinated by _Data Science_ :sparkling_heart: which helps in <br>
  __*__ Gathering new insights to manage and optimize business and industrial processes, <br>
  __*__ Bringing about novel developments in Artificial Intelligence and Machine Learning related applications.
 
 My research interests include Data Science and Deep Learning.<br>
-Presently, I am on the lookout for internships and Master's thesis opportunities in the same.
+Presently, I am on the lookout for full time opportunities in Data Science, Machine Learning and AI
 
 > In God we trust, all others must bring `data` - W.Edwards Deming

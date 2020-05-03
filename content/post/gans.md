@@ -1,5 +1,5 @@
 +++
-title = "Seminar on GANS"
+title = "Advances in Artificial Neural Networks - Seminar on GANs"
 date = 2017-11-21T20:40:33+05:30
 draft = false
 
